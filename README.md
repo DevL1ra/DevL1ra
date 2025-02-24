@@ -8,7 +8,7 @@
 
 
 ![Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=Renanfigueiredolira&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renanfigueiredolira&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renanfigueiredolira&layout=compact&langs_count=16&theme=dracula)
 
 ## Tecnologias:
 
