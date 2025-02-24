@@ -28,4 +28,5 @@
 
 </div><br/>
 
-#### Estudante de Analise e desenvolvimento de sistemas.👨🏻‍🎓
+#### Estudante de Analise e desenvolvimento de sistemas.
+
