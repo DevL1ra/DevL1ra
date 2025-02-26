@@ -1,6 +1,6 @@
 ## **`Desenvolvedor Front-End "Júnior"`**
 
-Me chamo Renan Figueiredo, tenho 34 anos e sou natural  de São Paulo, Capital. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNB. Sou apaixonado por tecnologia! 
+Me chamo Renan Figueiredo, tenho 34 anos e sou natural  de São Paulo, Capital. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UB. Sou apaixonado por tecnologia! 
 
 ### 💻 Portifólio e Redes
 <br/>
