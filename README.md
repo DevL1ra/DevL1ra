@@ -1,34 +1,103 @@
-### Olá! Sejam bem vindo(a) ao meu Github! 💻 📲 📊 🤖
+**`Desenvolvedor Front-End "Júnior"`**
+
+Me chamo Renan Figueiredo, tenho 34 anos e sou natural  de São Paulo, Capital. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNB. Sou apaixonado por tecnologia! 
+
+### 💻 Portifólio e Redes
+<br/>
+
+<p align="left">
+    <a href="https://renanfigueiredo.site">
+        <img 
+            alt="Portifólio" 
+            title="Portifólio" 
+            src="https://img.shields.io/badge/RenanFigueiredo.site-0A0A0A?style=for-the-badge&l=devdotto&logoColor=white/"
+/>
+</a>
+<a href="https://www.linkedin.com/in/renan-figueiredo-3a6510236/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"
+/>
+</a>
+
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+<br/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 
 
-[![Portifolio](https://img.shields.io/website?label=RenanFigueiredo.site&style=for-the-badge&url=https://renanfigueiredo.site/)](https://renanfigueiredo.site)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/renan-figueiredo-3a6510236/)
+<br/><br/>
+---
 
 
-![Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=Renanfigueiredolira&show_icons=true&theme=dracula)
+### 📊 Estatísticas
 
 
+<img
+    align="left"
+    alt="GitHub Stats" 
+    height="200px" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=devl1ra&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+/>
+<img
+      align="left"
+      alt="GitHub Stats" 
+      height="180px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevL1ra&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=7" 
+/>
 
-## Tecnologias:
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="Vue.Js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</div>
-
-## Ferramentas:
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="Vs.Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div><br/>
-
-#### Estudante de Analise e desenvolvimento de sistemas.
 
